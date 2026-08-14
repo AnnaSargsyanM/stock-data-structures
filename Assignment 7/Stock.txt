@@ -1,8 +1,0 @@
-AAPL - Apple : 121.73 (bf=0)
-AMD - Advanced Micro Devices : 84.51 (bf=1)
-INTC - Intel : 60.78 (bf=1)
-MOT - Motorola Inc. : 17.49 (bf=0)
-MSFT - Microsoft Corp. : 28.11 (bf=1)
-NVDA - NVIDIA : 548.58 (bf=0)
-SNE - Sony : 105.81 (bf=0)
-TSLA - Tesla : 564.33 (bf=0)
